@@ -1,0 +1,11 @@
+{
+  "name": "tencent-ocr",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "baidu-aip-sdk": "^2.3.3",
+    "commander": "^2.17.1",
+    "image-node-sdk": "^1.0.4",
+    "sharp": "^0.21.0"
+  }
+}
